@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipoduicu.github.io/BeK/sitemap_index.txt
+Sitemap: https://ipoduicu.github.io/FbU/sitemap_index.txt
+Sitemap: https://ipoduicu.github.io/VBw/sitemap_index.txt
+Sitemap: https://ipoduicu.github.io/vDs/sitemap_index.txt
